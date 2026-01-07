@@ -1,5 +1,5 @@
 {
-  "name": "api-redundancia",
+  "name": "api-docker-mitigation",
   "version": "1.0.0",
   "description": "API com 3 instâncias redundantes",
   "main": "app.js",
